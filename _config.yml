@@ -1,0 +1,23 @@
+name: Shane Farthing
+favicon: null
+layout_spectrum: 0.7692463421262801
+typography_spectrum: 0.33319297595880926
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08330588205717504
+  lightness: 0.12260825629346073
+  saturation: 0.3729359551798552
+  rhythmicContrast: 0.4027223330922425
+purpose: []
