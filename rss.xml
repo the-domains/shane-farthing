@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Shane Farthing]]></title>
         <description><![CDATA[Shane Farthing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shane-farthing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 Nov 2015 21:19:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 15 Nov 2015 20:01:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shane-farthing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a568f9c-d17a-476b-8411-e1a9db0cbc5a.jpg">]]></description>
+            <link>https://thegrid.ai/shane-farthing/c14a2626-5890-493c-a62d-cf4d1dc61645/index.html</link>
+            <guid isPermaLink="false">c14a2626-5890-493c-a62d-cf4d1dc61645</guid>
+            <pubDate>Sun, 15 Nov 2015 20:01:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c5bd0ad-ed4a-45cc-b092-bf62dbccb433.jpg">]]></description>
-            <link>undefined7349480e-e149-4de3-925b-b3be1e7f5f6d/index.html</link>
+            <link>https://thegrid.ai/shane-farthing/7349480e-e149-4de3-925b-b3be1e7f5f6d/index.html</link>
             <guid isPermaLink="false">7349480e-e149-4de3-925b-b3be1e7f5f6d</guid>
             <pubDate>Sat, 14 Nov 2015 21:18:18 GMT</pubDate>
         </item>
